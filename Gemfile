@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
 
-gem 'sinatra'
-gem 'rollbar', '~> 0.12.10'
+gem 'sinatra', '>= 2.0.2'
+gem 'rollbar', '~> 2.5.0'
 
